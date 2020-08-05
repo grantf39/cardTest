@@ -3,6 +3,7 @@
     { "id": 1, "Card_title": "Campus Status", "Title": "Last update: July 2, 2020", "Para": "When fall quarter instruction begins October 1, UC Santa Cruz will offer most courses remotely or online and provide in-person instruction for a small number of courses that cannot be delivered remotely, as is the case for some laboratory, studio and field study courses."},
     { "id": 2, "Card_title": "Resources" },
     { "id": 3, "Card_title": "Campus Statistics and Summary" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1 :)" },
     { "id": 2, "title": "Post 2 :)" },
